@@ -1,0 +1,14 @@
+.container { 
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+.bigText { 
+    height: 60px;
+}
+
+.box {
+    width: 450px;
+  height: 200px;
+  border: 1px solid blue;
+}
